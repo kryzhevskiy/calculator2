@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88347322-3708-4c7a-aead-61ebdf959385" name="Changes" comment="comment &quot;test 6&quot;" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2XJHTmtijhBolmfzn4L7Iwh60t2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/WebStorm Projects/ElifTech_test_app",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WebStorm Projects\uni\uu-lab3\test" />
+      <recent name="D:\WebStorm Projects\uni\uu-lab3\public" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="server.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/server.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.server.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88347322-3708-4c7a-aead-61ebdf959385" name="Changes" comment="" />
+      <created>1698340272322</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698340272322</updated>
+      <workItem from="1698340273404" duration="191000" />
+      <workItem from="1698345677136" duration="6522000" />
+      <workItem from="1698413026951" duration="3577000" />
+    </task>
+    <task id="LOCAL-00001" summary="comment &quot;test&quot;">
+      <created>1698413280629</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698413280629</updated>
+    </task>
+    <task id="LOCAL-00002" summary="comment &quot;test&quot;">
+      <created>1698414942221</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698414942221</updated>
+    </task>
+    <task id="LOCAL-00003" summary="comment &quot;test 2&quot;">
+      <created>1698415739163</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698415739163</updated>
+    </task>
+    <task id="LOCAL-00004" summary="comment &quot;test 3&quot;">
+      <created>1698415895303</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698415895303</updated>
+    </task>
+    <task id="LOCAL-00005" summary="comment &quot;test 4&quot;">
+      <created>1698416007447</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698416007447</updated>
+    </task>
+    <task id="LOCAL-00006" summary="comment &quot;test 5&quot;">
+      <created>1698416136481</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698416136481</updated>
+    </task>
+    <task id="LOCAL-00007" summary="comment &quot;test 5&quot;">
+      <created>1698416490393</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698416490393</updated>
+    </task>
+    <task id="LOCAL-00008" summary="comment &quot;test 6&quot;">
+      <created>1698416506933</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1698416506933</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="comment &quot;test&quot;" />
+    <MESSAGE value="comment &quot;test 2&quot;" />
+    <MESSAGE value="comment &quot;test 3&quot;" />
+    <MESSAGE value="comment &quot;test 4&quot;" />
+    <MESSAGE value="comment &quot;test 5&quot;" />
+    <MESSAGE value="comment &quot;test 6&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="comment &quot;test 6&quot;" />
+  </component>
+</project>
